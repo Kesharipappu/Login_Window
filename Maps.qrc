@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Maps/bihar-district-map-in-hindi.jpg</file>
+    </qresource>
+</RCC>
